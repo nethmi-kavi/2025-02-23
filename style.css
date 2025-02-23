@@ -1,0 +1,13 @@
+.group01{
+    background-color: aquamarine;
+}
+.group02{
+    background-color: burlywood;
+    border-radius: 50px;
+    
+    border-top: 5px solid blue;
+}
+#background{
+    background-image: url(img/free-photo-of-night-view-of-baroque-cathedral-in-aguascalientes.jpeg);
+    background-size: cover;
+}
